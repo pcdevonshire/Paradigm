@@ -247,21 +247,161 @@ input[type=text]:focus, textarea:focus {
 
 /****** For Screens larger than 768px ******/
 
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 768px) {
     
 html, body {
     font-size: 125%;
 }    
+
+#background {
+    height: 81rem;    
+}    
     
+h1 {
+    font-size: 4.65rem;
+    height: 21.25rem;
+    line-height: 5rem;
+    padding: 0.8em;
+    padding-top: 0.5em;
+    word-spacing: 4rem;
+}    
+
+.img1 {
+    margin-left: -31.25%;
+    width: 162.5%;
+}    
     
+h2 {
+    font-size: 1.15rem;
+    height: 10em;
+    padding: 3.5em 12em 0em 3em;
+}    
     
+p {
+    font-size: 1rem;
+    padding: 3.75em;
+}    
     
+.img2 {
+    margin-bottom: 5%;
+    margin-left: 9.5%;
+    width: 81%;
+} 
+    
+.right ul {
+    line-height: 5rem;
+    margin-left: 15%;
+}    
+    
+.right ul li {
+    display: inline-block;
+    font-size: 1.15rem;
+    padding-left: 1.5em;
+    padding-right: 1.75em;
+}    
+    
+.right ul li:nth-child(even) {
+    float: right;
+}    
+  
+#id1 {
+    margin-right: 17.5%;    
+}
+    
+#id2 {
+    margin-right: 10%;    
+}    
+    
+#id3 {
+    margin-right: 11.75%;    
+}    
+    
+h3 {
+    font-size: 1rem;
+    margin-left: 10%;
+}
+    
+.group {
+    margin-left: 9.5%;
+    margin-bottom: 12.5%;
+}
+
+.img3 {
+    width: 90%;
+}
+
+.img4 {
+    width: 44.5%;
+    height: 16.25em;
+    padding: 0.75em 0;
+}
+    
+#pleft {
+    padding-left: 0.375em;
+}
+
+#pright {
+    padding-right: 0.375em;
+}    
+ 
+.button-1, .button-2 {
+    height: 5em;
+    margin-left: 10%;
+    width: 30%;
+}    
+    
+.button-2 {
+    margin-left: 2.5%;
+}    
+    
+.button-3 {
+    width: 30%;
+}    
+    
+form {
+    margin-left: 10%;
+}    
+    
+input[type=text] {
+    display: inline;
+    height: 3em;
+    margin-right: 4%;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 42.5%;
+} 
+
+textarea {
+    width: 90%;
+}    
+
+a {
+    margin-left: 10%;
+}
+
+.address {
+    margin-left: 10%;
+}    
+    
+.icons a {
+    padding-right: 0;
+}
+
+.icons {
+    margin-left: -5%;
+    margin-bottom: 40%;
+    margin-top: 5%;
+}    
+
+.bottom {
+    line-height: 2.75rem;
+}    
     
 }
 
 /****** For Screens larger than 1024px ******/
 
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 1024px) {
     
 html, body {
     font-size: 150%;
