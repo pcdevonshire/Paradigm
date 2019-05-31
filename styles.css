@@ -407,7 +407,203 @@ html, body {
     font-size: 150%;
 }    
     
+.left {
+    float: left;
+    text-align: right;
+    width: 51vw;
+}    
+
+.right {
+    float: right;
+    width: 49vw;
+}    
     
+.side {
+    background: #49FCD4;    
+}    
+
+.head {
+    margin-left: -10%;
+}    
     
+h1 {
+    font-size: 3.6rem;
+    height: auto;
+    letter-spacing: -.185rem;
+    line-height: 3.95rem;
+    padding-left: 6em;
+    padding-right: 0;
+    padding-top: 2.44em;
+    position: relative;
+    word-spacing: normal;
+    z-index: 2;
+}
+
+.fa-arrow-down {
+    display: inline-block;
+    font-size: 2.5rem;
+    padding-top: 0.15em;
+    position: relative;
+    z-index: 2;
+}
+
+.img1 {
+    height: 100vh;
+    margin-left: -10%;
+    width: 121.25%;
+}   
+    
+#background {
+    height: 100vh;
+    width: 50vw;
+    z-index: 1;
+}    
+  
+h2 {
+    font-size: 0.9rem;
+    height: 10em;
+    line-height: 1.5rem;
+    padding: 5em 9em 0 21em;    
+}    
+    
+p {
+    font-size: 0.7rem;
+    letter-spacing: 0.025rem;
+    line-height: 1.35rem;
+    padding: 3.75em 5em;
+}    
+    
+.img2 {
+    margin-left: 9%;
+    width: 83.5%;
+}         
+
+.right ul {
+    line-height: 3rem;
+}    
+    
+.right ul li {
+    font-size: 0.75rem;
+    padding-left: 1.5em;
+    padding-right: 5em;
+}      
+    
+#id1 {
+    margin-right: 22.5%;    
+}
+    
+#id2 {
+    margin-right: 17.5%;    
+}    
+    
+#id3 {
+    margin-right: 18.5%;    
+}     
+    
+h3 {
+    font-size: 0.75rem;
+    margin-left: 0;
+    margin-right: 20%;
+}    
+    
+.side p {
+    padding-left: 30em;
+    padding-right: 11.5em;    
+}        
+    
+.group {
+    margin-left: 0;
+    margin-right: -5%;
+    margin-bottom: 12.5%;
+}
+
+.img3 {
+    width: 82.5%;
+}
+
+.img4 {
+    width: 40.75%;
+    height: 13.5em;
+    padding: 0.35em 0;
+}
+    
+#pleft {
+    padding-left: 0.2em;
+}
+
+#pright {
+    padding-right: 0.2em;
+}    
+ 
+.button-1, .button-2 {
+    height: 4.5em;
+    margin-left: 8.5%;
+    width: 25%;
+}    
+    
+.button-2 {
+    margin-left: 1%;
+}    
+    
+.button-3 {
+    font-size: 0.5rem;
+    height: 4.75em;
+    width: 20%;
+}    
+    
+form {
+    margin-left: 9%;
+}    
+
+input[type=text], textarea {
+    margin-bottom: 4%;
+}    
+    
+input[type=text] {
+    display: inline;
+    font-size: 0.8rem;
+    height: 2.5em;
+    margin-right: 2.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 44%;
+} 
+
+textarea {
+    font-size: 0.8rem;
+    height: 14em;
+    line-height: 1.75rem;
+    padding: 2%;
+    padding-top: 1%;
+    width: 92%;
+}    
+
+a {
+    margin-left: 6%;
+}            
+
+.bottom span {
+    margin-right: 19.5%;
+}    
+ 
+.bottom a {
+    margin-right: 19.5%;    
+}    
+    
+.icons a {
+    font-size: 0.9rem;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.icons {
+    margin-left: 45%;
+    margin-bottom: 30%;
+    margin-top: 0;
+}    
+
+.bottom {
+    line-height: 2rem;
+}       
     
 }
