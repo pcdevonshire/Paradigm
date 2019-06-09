@@ -405,7 +405,7 @@ a {
     
 html, body {
     font-size: 150%;
-}    
+}       
     
 .left {
     float: left;
@@ -513,7 +513,7 @@ h3 {
     
 .group {
     margin-left: 0;
-    margin-right: -5%;
+    padding-left: 7.5%;
     margin-bottom: 12.5%;
 }
 
